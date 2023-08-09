@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **willyobe10@gmail.com**
 
-- ⚡ Fun fact **I am pretty fun, I think**
+- ⚡ Fun fact **I am Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
