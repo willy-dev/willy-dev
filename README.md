@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="willy-dev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/marehwiz" target="blank"><img src="https://img.shields.io/twitter/follow/iCodeOnMars?logo=twitter&style=for-the-badge" alt="iCodeOnMars" /></a> </p>
+<p align="left"> <a href="https://twitter.com/icodeonmars" target="blank"><img src="https://img.shields.io/twitter/follow/iCodeOnMars?logo=twitter&style=for-the-badge" alt="iCodeOnMars" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce projects and OpenAI APIs**
 
