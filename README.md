@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **E-commerce projects and OpenAI APIs**
 
-- 🌱 I’m currently learning **Vue, NodeJS, React, Framer-motion**
+- 🌱 I’m currently learning **Vue, NodeJS, React, Framer-motion, Flutter**
 
 - 👯 I’m looking to collaborate on **APIs and pair programming for DSA**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **willyobe10@gmail.com**
 
-- ⚡ Fun fact **I am Batman**
+- ⚡ Fun fact **I MISS THE OLD TOP GEAR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
