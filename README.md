@@ -14,9 +14,9 @@
 
 - 🤝 I’m looking for help with **Langchain and FlutterFlow**
 
-- 👨‍💻 Most of my projects are available at [Portfolio](https://developedbymareh.netlify.app)
+- 👨‍💻 Most of my projects are available at [My Portfolio](https://developedbymareh.netlify.app)
 
-- 📝 I regularly write articles on [Medium(https://medium.com/@icodeonmars)]
+- 📝 I regularly write articles on [Medium Blog](https://medium.com/@icodeonmars)
 
 - 💬 Ask me about **JavaScript, Python, React**
 
