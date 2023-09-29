@@ -6,23 +6,23 @@
 
 <p align="left"> <a href="https://twitter.com/icodeonmars" target="blank"><img src="https://img.shields.io/twitter/follow/iCodeOnMars?logo=twitter&style=for-the-badge" alt="iCodeOnMars" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce projects and OpenAI APIs**
+- 🔭 I’m currently working on **Flutter projects and REST APIs**
 
-- 🌱 I’m currently learning **Vue, NodeJS, React, Framer-motion, Flutter**
+- 🌱 I’m currently learning **Daraja API, NodeJS, React, Framer-motion, Flutter**
 
 - 👯 I’m looking to collaborate on **APIs and pair programming for DSA**
 
-- 🤝 I’m looking for help with **Langchain and Web3**
+- 🤝 I’m looking for help with **Langchain and FlutterFlow**
 
-- 👨‍💻 Most of my projects are available at [https://developedbymareh.netlify.app](https://developedbymareh.netlify.app)
+- 👨‍💻 Most of my projects are available at [Portfolio](https://developedbymareh.netlify.app)
 
-- 📝 I regularly write articles on [Medium(Projects coming soon)]
+- 📝 I regularly write articles on [Medium(https://medium.com/@icodeonmars)]
 
 - 💬 Ask me about **JavaScript, Python, React**
 
 - 📫 How to reach me **willyobe10@gmail.com**
 
-- ⚡ Fun fact **I MISS THE OLD TOP GEAR**
+- ⚡ Fun fact **I Really Code on Mars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
