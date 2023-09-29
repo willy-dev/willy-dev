@@ -1,4 +1,4 @@
-![MasterHead](https://afourtech.com/wp-content/uploads/2022/02/Home-Page-Banner-05-1024x379.jpg.webp)
+![MasterHead](https://1.gravatar.com/userimage/235468569/bd7a67e38ebb312a769f8e137c3a182a?size=original)
 <h1 align="center">Hi 👋, I'm Wilfred Marete</h1>
 <h3 align="center">A passionate software developer from Nairobi</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
