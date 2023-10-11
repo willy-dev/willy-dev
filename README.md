@@ -1,6 +1,6 @@
 ![MasterHead](https://1.gravatar.com/userimage/235468569/bd7a67e38ebb312a769f8e137c3a182a?size=original)
 <h1 align="center">Hi 👋, I'm Wilfred Marete</h1>
-<h3 align="center">A passionate software developer from Nairobi</h3>
+<h3 align="center">A passionate Software Developer and Mechatronic Eng based in Nairobi</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="willy-dev" /> </p>
 
