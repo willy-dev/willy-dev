@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Daraja API, NodeJS, React, Framer-motion, Flutter**
 
-- 👯 I’m looking to collaborate on **APIs and pair programming for DSA**
+- 👯 I’m looking to collaborate on **AWS and Pentesting**
 
-- 🤝 I’m looking for help with **Langchain and FlutterFlow**
+- 🤝 I’m looking for help with **Cybersecurity and AWS**
 
 - 👨‍💻 Most of my projects are available at [My Portfolio](https://developedbymareh.netlify.app)
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **JavaScript, Python, React**
 
-- 📫 How to reach me **willyobe10@gmail.com**
+- 📫 How to reach me **wilfred.w.marete@gmail.com**
 
 - ⚡ Fun fact **I Really Code on Mars**
 
